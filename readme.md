@@ -14,8 +14,14 @@ TinderCat is a dating app for cats and their humans. create just for fun and to 
 
 
 ## Layout
-<img src="img.png" alt="alt text" width="200">
-<img src="animation.gif" alt="alt text" width="200">
+<table>
+    <tr>
+        <td>
+            <img src="img.png" alt="alt text" width="200">
+        </td>
+        <td><img src="animation.gif" alt="alt text" width="200"></td>
+    </tr>
+</table>
 
 
 ## How to run the project
